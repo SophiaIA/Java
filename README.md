@@ -1,3 +1,3 @@
-# This is reposisitory of course assignments written by me.
+# This is reposisitory of my Microsoft Java course assignments.
 # Notification: MazeRunner is only a part of a game - the 'running' part.
 
